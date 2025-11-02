@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Claude Calimlim  ฅ^•ﻌ•^ฅ
 
 🎓 **BS Computer Science Graduate** 
-💼 Currently working as an **Admin Aide (Layout Artist)** in a State University here in the Philippines.
+💼 Currently working as an **Admin Aide (Layout Artist)** in a State University.
 🎨 Passionate about creating projects that blend **design, code, and real-world problem solving**.  
 
 ---
@@ -15,7 +15,7 @@ A locally running Large Language Model (LLM) demo that simulates chatbot behavio
 
 ## 🧰 Tech Stack
 `Python` • `C#` • `Unity` • `SQL` • `HTML` • `CSS` • `JavaScript` • `WordPress`
-- a little but of blender, canva, adobe softwares
+- a little bit of blender, canva, adobe softwares
 
 ---
 
